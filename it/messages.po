@@ -1,0 +1,11 @@
+# StatusMessages.lblNoErrori
+msgid "StatusMessages.lblNoErrori"
+msgstr "Messaggi spediti con successo a"
+
+# StatusMessages.lblErrore1
+msgid "StatusMessages.lblErrore1"
+msgstr "Indirizzi disiscritti"
+
+# StatusMessages.lblErrore2
+msgid "StatusMessages.lblErrore2"
+msgstr "Indirizzi in blacklist"
