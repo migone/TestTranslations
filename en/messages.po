@@ -1,0 +1,11 @@
+# StatusMessages.lblNoErrori
+msgid "StatusMessages.lblNoErrori"
+msgstr "Sent messages"
+
+# StatusMessages.lblErrore1
+msgid "StatusMessages.lblErrore1"
+msgstr "Unsubscribed addresses"
+
+# StatusMessages.lblErrore2
+msgid "StatusMessages.lblErrore2"
+msgstr "Blacklisted addresses"
